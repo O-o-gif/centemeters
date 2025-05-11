@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to bottom,orange, yellow);
+    background-repeat: no-repeat;
+    background-size: cover;}
+html, body{
+    height: 100%;
+    margin: 0;
+}
+#myselect{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    width: 263;
+}
+#myselect2{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    width: 263;
+}
+#myinput{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+}
+#transform{
+    background-color: black;
+    color: white;
+    border-radius: 100%;
+    width: 263;
+}
